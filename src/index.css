@@ -39,7 +39,7 @@ form, .madlib-story {
 
 /* Style the input and button elements */
 input, button, select {
-  margin: 10px 0;
+  margin: 5px;
   padding: 10px;
   font-size: 1rem;
 }
