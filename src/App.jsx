@@ -4,7 +4,7 @@ import Madlib from "./components/Madlib";
 function App() {
   return (
     <div className="App">
-      <h1>MadLibs!</h1>
+      <h1>Mad Libs!</h1>
       <Madlib />
     </div>
   );
